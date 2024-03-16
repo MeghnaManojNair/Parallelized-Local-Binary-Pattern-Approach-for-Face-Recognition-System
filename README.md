@@ -1,0 +1,1 @@
+# Parallelized-Local-Binary-Pattern-Approach-for-Face-Recognition-System
